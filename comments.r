@@ -9,3 +9,11 @@ b <- 4
 print(a + b)
 
 #this is inut
+# jkjxcxzc
+# sjxkzcj
+# kxddj
+
+#Addition
+a1<-19
+b2<-8
+cat(a1-b2)
