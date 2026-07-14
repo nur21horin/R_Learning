@@ -58,3 +58,5 @@ print(is.character("12-04-2020"))
 
 print(is.integer("a"))
 print(is.numeric(2+3i))
+
+cat("NUR")
