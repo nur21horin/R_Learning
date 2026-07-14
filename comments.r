@@ -32,3 +32,8 @@ print(b5*b6)
 print(b5/b6)
 print(b5%%b6)
 print(b5^b6)
+
+#Left assignment operator
+
+vec1=c("ab",TRUE)
+print(vec1)
