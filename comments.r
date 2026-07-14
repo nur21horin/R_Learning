@@ -23,3 +23,12 @@ cat("\n")
 a3<-20
 b3<-39
 cat(a3*b3)
+
+mul=29
+print(mul*2)
+b5=c(4,4)
+b6=c(5,5)
+print(b5*b6)
+print(b5/b6)
+print(b5%%b6)
+print(b5^b6)
