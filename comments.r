@@ -37,3 +37,24 @@ print(b5^b6)
 
 vec1=c("ab",TRUE)
 print(vec1)
+
+#Data types 
+#Numeric
+#Integer
+#Logical
+#Complex
+c<-4+3i
+cat(c,"\n")
+#Character
+#Raw
+r<-as.raw(c(0x1,0x2,0x3))
+cat(r)
+
+print(is.logical(TRUE))
+print(is.integer(3L))
+print(is.numeric(10.5))
+print(is.complex(1+2i))
+print(is.character("12-04-2020"))
+
+print(is.integer("a"))
+print(is.numeric(2+3i))
