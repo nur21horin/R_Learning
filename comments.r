@@ -17,3 +17,9 @@ print(a + b)
 a1<-19
 b2<-8
 cat(a1-b2)
+cat("\n")
+
+#multiplication
+a3<-20
+b3<-39
+cat(a3*b3)
